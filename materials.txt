@@ -1,0 +1,15 @@
+1,Air,1.0
+2,Wood,5.0
+3,Glass,8.0
+4,Concrete,20.0
+5,Lead,50.0
+6,Brick,25.0
+7,Steel,40.0
+8,Plexiglass,12.0
+9,Heavy Carpet,4.5
+10,Foam Insulation,2.5
+11,Plasterboard,6.0
+12,Rubber,15.0
+13,Water Barrier,10.0
+14,Dense Marble,35.0
+15,Curtains/Fabric,3.0
